@@ -267,7 +267,7 @@ function App() {
 
         <div className="actions">
           <a
-            href="/Resume_Neti.pdf"
+            href="public/Resume_Neti.pdf"
             download
             className="resume-btn"
           >
